@@ -1,0 +1,1 @@
+The_best_parameter: {'colsample_bytree': np.float64(0.6889476558204417), 'gamma': np.float64(0.03426068106524963), 'learning_rate': np.float64(0.5425583827087664), 'max_depth': np.float64(6.0), 'min_child_weight': np.float64(7.269952234984075), 'n_estimators': np.float64(167.0), 'subsample': np.float64(0.5080711449832259)}
